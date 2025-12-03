@@ -81,6 +81,12 @@ javac SudokuSolverGUI.java
 java SudokuSolverGUI
 ```
 
+## Screenshots
+
+Below is the actual GUI of the application:
+
+![Sudoku GUI Screenshot](attachment:/mnt/data/44f38fd7-b62b-4a41-929e-c93062b58870.png)
+
 ## Technologies Used
 
 * **Java**
