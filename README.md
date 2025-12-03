@@ -85,7 +85,7 @@ java SudokuSolverGUI
 
 Below is the actual GUI of the application:
 
-<img width="481" height="586" alt="image" src="https://github.com/user-attachments/assets/1bd17349-86c6-43db-9646-0a08520d9d83" />
+<img width="485" height="588" alt="image" src="https://github.com/user-attachments/assets/f2b68ec2-69e0-45aa-a900-1af5b42ba270" />
 
 ## Technologies Used
 
